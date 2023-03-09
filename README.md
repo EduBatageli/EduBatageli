@@ -10,7 +10,7 @@
 </div>
 <div style="display: inline_block"><br>
    <img align="center" alt="Edu-MySQL" height="40" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=140&color=currentColor" />
-   <img aling="center alt = "Edu-Python" height="40" whidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+   <img aling="center alt = "Edu-Python" height="40" whidth="40" src="https://icongr.am/devicon/python-original-wordmark.svg?size=140&color=currentColor" />
    <img align="center" alt="Edu-Jupyter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 </div>
 
