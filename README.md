@@ -1,6 +1,7 @@
 ### Wellcome, I'm Eduardo Batageli
-- 🌱 I’m currently learning Python and MySQL
-- 😄 Pronouns: ele/dele
+- 🌱 I’m currently learning Python, MySQL, Java, HTML
+- 📚 I'm studying System development on FIAP
+- 📗 studied on Senac
 
 <div align="center">
   <a href="https://github.com/EduBatageli">
