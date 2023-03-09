@@ -8,10 +8,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduBatageli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduBatageli&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<div style="display: inline_block"><br>
-   <img align="center" alt="Edu-MySQL" height="40" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=140&color=currentColor" />
-   <img aling="center alt = "Edu-Python" height="20" whidth="40" src="https://icongr.am/devicon/python-original-wordmark.svg?size=140&color=currentColor" />
-   <img align="center" alt="Edu-Jupyter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+  
+### Stacks:
+<div style="display: inline_block"><br/> 
+    <img align="center "alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img align="center "alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+    <img align="center "alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <img align="center "alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 </div>
 
 <div> 
