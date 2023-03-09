@@ -18,6 +18,7 @@
     <img align="center "alt="html" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
   </div>
 
+ ### Social:
 <div style="display: inline_block"><br>
   <a href="https://www.instagram.com/edubatageli" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eduardo-moura-batageli-5b4250240/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
